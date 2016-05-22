@@ -1,6 +1,5 @@
 ### Backpack Contents
-
-- [ ] Waterbottles
+- [ ] Water bottles
 - [ ] First aid kit
 - [ ] Flashlight
 - [ ] Batteries

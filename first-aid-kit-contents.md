@@ -1,5 +1,4 @@
 ### First Aid Kit Contents
-
 - [ ] Gauze
 - [ ] Ibuprofen
 - [ ] Fine-point (splinter) tweezers
