@@ -1,0 +1,13 @@
+### First Aid Kit Contents
+
+- [ ] Gauze
+- [ ] Ibuprofen
+- [ ] Fine-point (splinter) tweezers
+- [ ] Bandaids
+- [ ] Neosporin
+- [ ] Insect repellant
+- [ ] Moleskin
+- [ ] Scissors
+- [ ] Antiseptic wipes
+- [ ] [Cleansing wipes](http://www.amazon.com/Wet-Ones-4723-Antibacterial-Towelettes/dp/B005NJW3CQ/ref=sr_1_4?ie=UTF8&qid=1463944859&sr=8-4&keywords=wet+ones)
+- [ ] Eye drops
