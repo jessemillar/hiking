@@ -1,0 +1,21 @@
+### Backpack Contents
+
+- [ ] Waterbottles
+- [ ] First aid kit
+- [ ] Flashlight
+- [ ] Batteries
+- [ ] Map
+- [ ] Compass
+- [ ] Sunscreen
+- [ ] Lip balm
+- [ ] Sunglasses
+- [ ] Matches/lighter
+- [ ] Knife
+- [ ] Energy snacks (brownies)
+- [ ] Sketchbook
+- [ ] Pencils
+- [ ] Phone
+- [ ] Walkie-talkies
+- [ ] Whistle
+- [ ] Small mirror
+- [ ] Duct tape (small roll)
