@@ -18,3 +18,4 @@
 - [ ] Whistle
 - [ ] Small mirror
 - [ ] Duct tape (small roll)
+- [ ] Extra socks (in a bag)
